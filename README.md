@@ -21,12 +21,21 @@
 
 ---
 
+## 📬 Contact Me
+
+<div align="center">
+
+</br>
+
+[![Discord](https://img.shields.io/badge/Discord-bitwised-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1206945231719899167)
+[![Telegram](https://img.shields.io/badge/Telegram-XeTrinityz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XeTrinityz)
+  
+</div>
+
+---
+
 <div align="center">
   
   <i>Feel free to check out my repositories and connect!</i>
   
 </div>
-
-<!---
-XeTrinityz/XeTrinityz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
